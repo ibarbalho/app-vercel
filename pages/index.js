@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Test app</h1>
+    return <h1>Funcionou!! 🍻</h1>
 }
 
 export default Home;
