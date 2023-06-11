@@ -1,7 +1,7 @@
-import sendingLoveGif from './sending-love.gif';
+
 function Home(){
     return <h1> 
-            Amo você, minha nega! 😍             
+            "Just one small positive thought in the morning can change your whole day."          
         </h1>
 }
 
